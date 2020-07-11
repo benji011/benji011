@@ -5,14 +5,23 @@ Benjamin Lo is a qualified & professional Full Stack Software Engineer currently
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the library.
 
 ```bash
 pip install benjamin_lo
 ```
 
 ### GET Basic profile request
-Sample response
+
+Invoking the `get_profile(..)` function calls the API endpoint `https://benjamin_lo.io/api/profile/6195689/` in the background.
+
+```python3
+import benjamin_lo
+# ...
+benjamin_lo.get_profile()
+```
+
+Sample response as JSON
 
 ```json
 "basic_info": {
@@ -25,7 +34,14 @@ Sample response
 ```
 
 ## GET Technologies & experience request
-Sample response
+Invoking the `get_experience(..)` function calls the API endpoint `https://benjamin_lo.io/api/profile/6195689/technologies/` in the background.
+
+```python3
+import benjamin_lo
+# ...
+benjamin_lo.get_experience()
+```
+Sample response as JSON
 ```json
 "technologies": {
     "frontend": ["React.JS", "Vue.JS"],
@@ -34,22 +50,6 @@ Sample response
 }
 ```
 
-## Usage
-
-```python3
-import benjamin_lo
-
-is_hungry = benjamin_lo.is_hungry()
-job_status = benjamin_lo.status()
-benji_obj = benjamin_lo.code_my_stuff(msg="I need a qualified developer!!!")
-```
-
-Sample output
-```bash
->>> True
->>> {"actively_job_hunting": False, "open_to_negotiations": True, "hungry": True}
->>> {"status_code": 200, "response": "Sure let's talk! :)"}
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
