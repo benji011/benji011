@@ -11,14 +11,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install benjamin_lo
 ```
 
-Alternatively, if you prefer other other package managers, try:
-
-```bash
-npm install benjamin_lo.js
-yarn add benjamin_lo.js
-bower install benjamin_lo.js
-```
-
 ### GET Basic profile request
 Sample response
 
@@ -41,7 +33,6 @@ Sample response
     "devops": ["docker", "kubernetes", "Amazon Web Services"]
 }
 ```
-
 
 ## Usage
 
