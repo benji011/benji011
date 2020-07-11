@@ -1,7 +1,7 @@
 # [Benjamin Lo](https://benjaminlo.io/) &middot; [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://app.circleci.com/pipelines/github/benji011/benjaminlo.io) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://benjaminlo.io)
 
 ### Benjamin Lo
-Benjamin Lo is a qualified & professional Full Stack Software Engineer currently working on [USERGRAM](https://benjaminlo.io/project/portfolio/ug/) at [bebit, Inc](github.com/bebit). This repo is actually not a downloadable resource.
+Benjamin Lo is a qualified Software Engineer currently working on [USERGRAM](https://benjaminlo.io/project/portfolio/ug/) at [bebit, Inc](github.com/bebit). This repo is actually not a downloadable resource.
 
 ## Installation
 
