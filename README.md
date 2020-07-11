@@ -1,4 +1,4 @@
-<img src="https://circleci.com/docs/assets/img/docs/shield-passing.png"/>
+[![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react)
 
 ### Benjamin Lo
 A qualified & professional Full Stack Software Engineer currently working on [USERGRAM](https://benjaminlo.io/project/portfolio/ug/) at [bebit, Inc](github.com/bebit). (Not a library you can actually download)
