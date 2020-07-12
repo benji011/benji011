@@ -1,15 +1,7 @@
 # [Benjamin Lo](https://benjaminlo.io/) &middot; [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://app.circleci.com/pipelines/github/benji011/benjaminlo.io) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://benjaminlo.io)
 
 ### Benjamin Lo
-Benjamin Lo is a qualified Software Engineer currently working on [USERGRAM](https://benjaminlo.io/project/portfolio/ug/) at [bebit, Inc](github.com/bebit). This repo is actually not a downloadable resource.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the library.
-
-```bash
-pip install benjamin_lo
-```
+Benjamin Lo is a qualified Software Engineer currently working on [USERGRAM](https://benjaminlo.io/project/portfolio/ug/) at [bebit, Inc](github.com/bebit).
 
 ### GET Basic profile request
 
@@ -49,7 +41,6 @@ Sample response as JSON
     "devops": ["docker", "kubernetes", "Amazon Web Services"]
 }
 ```
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
