@@ -37,8 +37,8 @@ Sample response as JSON
 ```json
 "technologies": {
     "frontend": ["React.JS", "Vue.JS"],
-    "backend": ["Django", "Laravel", "Zend Framework 1 & 2", "Ruby On Rails"],
-    "devops": ["docker", "kubernetes", "Amazon Web Services"]
+    "backend": ["Django", "DRF", "Laravel", "MySQL", "Ruby On Rails"],
+    "devops": ["docker", "kubernetes", "AWS Athena", "AWS Lambda", "AWS DynamoDB"]
 }
 ```
 
