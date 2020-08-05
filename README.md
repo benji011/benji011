@@ -1,4 +1,4 @@
-# [Benjamin Lo](https://benjaminlo.io/) &middot; [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://app.circleci.com/pipelines/github/benji011/benjaminlo.io) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://benjaminlo.io)
+# [Benjamin Lo](https://benjaminlo.io/) &middot; [![Years Badge](https://badges.pufler.dev/years/benji011)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/benji011)](https://badges.pufler.dev)
 
 ### Benjamin Lo
 Benjamin Lo is a qualified Software Engineer currently working on [USERGRAM](https://benjaminlo.io/project/portfolio/ug/) at [bebit, Inc](github.com/bebit).
