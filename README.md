@@ -7,9 +7,9 @@ Benjamin Lo is a qualified Software Engineer currently working on [USERGRAM](htt
 
 ```json
 "technologies": {
-    "frontend": ["React.JS", "Vue.JS"],
-    "backend": ["Django", "DRF", "Laravel", "MySQL", "Ruby On Rails"],
-    "devops": ["docker", "kubernetes", "AWS Athena", "AWS Lambda", "AWS DynamoDB"]
+    "frontend": ["React.JS", "Vue.JS", "Next.JS"],
+    "backend": ["Django", "DRF", "Laravel", "MySQL", "NoSQL", "Ruby On Rails"],
+    "devops": ["Docker", "Kubernetes", "AWS Athena", "AWS Lambda", "AWS EC2", "AWS Fargate", "AWS ECS", "AWS ASG", "AWS DynamoDB"]
 }
 ```
 
