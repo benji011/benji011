@@ -1,22 +1,26 @@
-# [Benjamin Lo](https://benjaminlo.io/) &middot; [![Years Badge](https://badges.pufler.dev/years/benji011)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/benji011)](https://badges.pufler.dev)
+<h2> Hi, I'm Ben.</h2>
 
-### Benjamin Lo
-Benjamin Lo is a qualified Software Engineer currently working on [USERGRAM](https://benjaminlo.io/project/portfolio/ug/) at [bebit, Inc](github.com/bebit).
+<h3> 👨🏻‍💻 About Me </h3>
 
-## Skills & technologies
+- 🤔 &nbsp; Exploring new technologies and developing software solutions..
+- 🎓 &nbsp; Studied Software Engineering and Japanese at Oxford Brookes University.
+- 💼 &nbsp; Working as a remote software engineer at [beBit Inc](https://www.bebit.co.jp/) on [USERGRAM](https://www.bebit.co.jp/usergram/).
+- 🌱 &nbsp; Learning more about Cloud Architecture on the side.
 
-```json
-"technologies": {
-    "frontend": ["React.JS", "Vue.JS", "Next.JS"],
-    "backend": ["Django", "DRF", "Laravel", "MySQL", "NoSQL", "Ruby On Rails"],
-    "devops": ["Docker", "Kubernetes", "AWS Athena", "AWS Lambda", "AWS EC2", "AWS Fargate", "AWS ECS", "AWS ASG", "AWS DynamoDB"]
-}
-```
+<h3>🛠 Tech Stack</h3>
 
-## Links
-[Website](https://benjaminlo.io/)
+- 💻 &nbsp; Python | Django | Django REST Franework
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | VueJS | NextJS
+- 🛢 &nbsp; MySQL | NoSQL
+- 🔧 &nbsp; Git | Markdown
 
-[LinkedIn](https://www.linkedin.com/in/benjamin-lo-6b0ba11a/)
+<br/>
 
-[Medium](https://www.medium.com/@stupid_dev/)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benji011&show_icons=true)](https://github.com/AVS1508)
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.benjaminlo.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.benjaminlo.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/benjamin-lo-6b0ba11a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Lo-blue?style=flat-square&logo=linkedin"></a>
+</p>
