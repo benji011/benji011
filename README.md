@@ -14,6 +14,11 @@
 - 🛢 &nbsp; MySQL | NoSQL
 - 🔧 &nbsp; Git | Markdown
 
+<h3> Certificates</h3>
+<img height="250px" width="250px" src="https://images.youracclaim.com/size/680x680/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png"/>
+
+- [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/fcf4883c-c6c6-464c-a659-f89b122430ae)
+
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benji011&show_icons=true)](https://github.com/AVS1508)
