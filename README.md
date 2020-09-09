@@ -14,10 +14,9 @@
 - 🛢 &nbsp; MySQL | NoSQL
 - 🔧 &nbsp; Git | Markdown
 
-<h3> Certificates</h3>
-<img height="250px" width="250px" src="https://images.youracclaim.com/size/680x680/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png"/>
+<h3>🏅 Certificates</h3>
 
-- [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/fcf4883c-c6c6-464c-a659-f89b122430ae)
+[![AWS Certified Cloud Practitioner](https://images.youracclaim.com/size/680x680/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png =250x250)](https://www.youracclaim.com/badges/fcf4883c-c6c6-464c-a659-f89b122430ae)
 
 <br/>
 
