@@ -16,7 +16,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benji011&show_icons=true)](https://github.com/AVS1508)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benji011&show_icons=true)](https://github.com/benji011)
 
 [![AWS Certified Cloud Practitioner](https://images.youracclaim.com/size/250x250/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png)](https://www.youracclaim.com/badges/fcf4883c-c6c6-464c-a659-f89b122430ae)   
 
