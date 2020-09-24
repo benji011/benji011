@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<h2> Hi, I'm Ben.</h2>
 
-You can use the [editor on GitHub](https://github.com/benji011/benji011/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions..
+- 🎓 &nbsp; Studied Software Engineering and Japanese at [Oxford Brookes University](https://www.brookes.ac.uk/).
+- 💼 &nbsp; Working as a remote software engineer at [beBit Inc](https://www.bebit.co.jp/) on [USERGRAM](https://www.bebit.co.jp/usergram/).
+- 🌱 &nbsp; Learning more about Cloud Architecture on the side.
 
-### Markdown
+<h3>🛠 Tech Stack</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 💻 &nbsp; Python | Django | Django REST Franework
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | VueJS | NextJS
+- 🛢 &nbsp; MySQL | NoSQL
+- 🔧 &nbsp; Git | Markdown
 
-```markdown
-Syntax highlighted code block
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benji011&show_icons=true)](https://github.com/benji011)
 
-- Bulleted
-- List
+[![AWS Certified Cloud Practitioner](https://images.youracclaim.com/size/250x250/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png)](https://www.youracclaim.com/badges/fcf4883c-c6c6-464c-a659-f89b122430ae)   
 
-1. Numbered
-2. List
+<h3> 🤝🏻 Connect with Me </h3>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benji011/benji011/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p align="center">
+<a href="https://www.benjaminlo.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.benjaminlo.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/benjamin-lo-6b0ba11a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Lo-blue?style=flat-square&logo=linkedin"></a>
+</p>
