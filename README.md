@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions..
 - 🎓 &nbsp; Studied Software Engineering and Japanese at [Oxford Brookes University](https://www.brookes.ac.uk/).
 - 💼 &nbsp; Working as a remote software engineer at [beBit Inc](https://www.bebit.co.jp/) on [USERGRAM](https://www.bebit.co.jp/usergram/).
-- 🌱 &nbsp; Learning **RabbitMQ** & **RxPy**.
+- 🌱 &nbsp; Currently learning **RabbitMQ** & **RxPy**.
 
 <h3>🛠 Tech Stack</h3>
 
