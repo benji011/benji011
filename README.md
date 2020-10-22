@@ -18,8 +18,6 @@
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benji011&show_icons=true&theme=react)](https://github.com/benji011)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benji011&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
