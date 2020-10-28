@@ -25,3 +25,7 @@
   <a href="https://www.benjaminlo.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.benjaminlo.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/benjamin-lo-6b0ba11a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Lo-blue?style=flat-square&logo=linkedin"></a>
 </p>
+
+### My GitHub trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=benji011)
