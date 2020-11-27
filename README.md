@@ -9,7 +9,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Django | Django REST Franework
+- 💻 &nbsp; Python | Django | Django REST Framework
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | VueJS | NextJS
 - 🛢 &nbsp; MySQL | NoSQL
 - 🔧 &nbsp; Git | Markdown
