@@ -5,13 +5,13 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions..
 - 🎓 &nbsp; Studied Software Engineering and Japanese at [Oxford Brookes University](https://www.brookes.ac.uk/).
 - 💼 &nbsp; Working as a remote software engineer at [beBit Inc](https://www.bebit.co.jp/) on [USERGRAM](https://www.bebit.co.jp/usergram/).
-- 🌱 &nbsp; Currently learning **RabbitMQ** & **RxPy**.
+- 🌱 &nbsp; Currently learning **Terraform**.
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Django | Django REST Framework
+- 💻 &nbsp; Python | Django | Django REST Framework | PHP | Bash | 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | VueJS | NextJS
-- 🛢 &nbsp; MySQL | NoSQL
+- 🛢 &nbsp; MySQL | NoSQL | AWS | DigitalOcean | Terraform
 - 🔧 &nbsp; Git | Markdown
 
 
