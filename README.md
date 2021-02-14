@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions..
 - 🎓 &nbsp; Studied Software Engineering and Japanese at [Oxford Brookes University](https://www.brookes.ac.uk/).
-- 💼 &nbsp; Working as a remote software engineer at [beBit Inc](https://www.bebit.co.jp/) on [USERGRAM](https://www.bebit.co.jp/usergram/).
-- 🌱 &nbsp; Currently learning **Terraform**.
+- 🌱 &nbsp; Currently learning **Terraform**, **DigitalOcean K8s Cluster** & **ArgoCD**.
 
 ### 🛠 Tech Stack
 
