@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions..
 - 🎓 &nbsp; Studied Software Engineering and Japanese at [Oxford Brookes University](https://www.brookes.ac.uk/).
-- 🌱 &nbsp; Currently learning **Terraform**, **DOCTL**, **Kafka** & **ArgoCD**.
+- 🌱 &nbsp; Currently learning **Terraform**, **InversifyJS** & **Kafka**.
 
 ### 🛠 Tech Stack
 
