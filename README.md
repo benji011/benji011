@@ -4,7 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions..
 - 🎓 &nbsp; Studied Software Engineering and Japanese at [Oxford Brookes University](https://www.brookes.ac.uk/).
-- 🌱 &nbsp; Currently learning **Terraform**, **InversifyJS** & **Kafka**.
+- 🌱 &nbsp; Currently learning **Kafka**
+- 🔧 &nbsp; Building my own authentication service using **Node.JS**. You can check it out [here](https://github.com/benji011/jwt-nodejs)
 
 ### 🛠 Tech Stack
 
